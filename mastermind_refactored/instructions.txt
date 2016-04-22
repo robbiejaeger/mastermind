@@ -1,0 +1,7 @@
+----------------------------------
+There are two roles in this game: the code maker and the code breaker. Your job is to be the code breaker.
+
+The code is made up of a sequence of four colors (elements): (r)ed, (g)reen, (b)lue, and (y)ellow. You must guess the correct element and order of the elements. When you guess the code, you will be told if any elements or positions are correct.
+
+For example, the code could be ‘RGGB’. If you guess ‘RYYY’, then you are told that you have one element correct and one position correct. You can make guesses until you solve the code.
+----------------------------------
